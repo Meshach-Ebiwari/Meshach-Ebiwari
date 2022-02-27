@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meshach-Ebiwari
-- 👀 I’m interested in Frontend Development and primarily working with Adobe XD, React.js (Gatsby and Next), Styled-Components, Node.js, Rest-Api, GraphQl
+- 👀 I’m interested in Frontend Development and primarily working with Figma and Adobe XD, React.js (Gatsby and Next), Styled-Components, Node.js, Rest-Api, GraphQl
 - 🌱 I’m currently learning as much as i can to be able to help my world.
 - 💞️ I’m looking to collaborate on awesome projects that will solve problems.
 - 💞️ You can checkout my User Interface designs at www.dribbble.com/Mrmeshach
