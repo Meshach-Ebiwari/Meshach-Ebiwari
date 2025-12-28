@@ -11,7 +11,7 @@ Meshach-Ebiwari/Meshach-Ebiwari is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @Meshach-Ebiwari
+👋 Hi, I’m @Meshach-Ebiwari
 I’m a Design Engineer building scalable fintech, SaaS, AI, and interactive systems with a strong focus on frontend architecture, design systems, and production-ready user interfaces.
 
 I work across the full product lifecycle, from user research and system design to implementation. My approach emphasizes component-driven development, accessibility, performance, and maintainability. I design with engineering constraints in mind and build interfaces that are consistent, scalable, and easy to extend.
