@@ -18,17 +18,17 @@ I work across the full product lifecycle, from user research and system design t
 
 Technical focus
 
-Frontend architecture with React, Next.js, and Gatsby
-Component libraries and design systems aligned with product requirements
-State management, API integration, and edge-case handling
-Performance optimization and responsive UI engineering
+- Frontend architecture with React, Next.js, and Gatsby
+- Component libraries and design systems aligned with product requirements
+- State management, API integration, and edge-case handling
+- Performance optimization and responsive UI engineering
 
 Tools & stack
-Design: Figma, Adobe XD
-Frontend: React.js, Next.js, Gatsby, Styled Components
-Backend & APIs: Node.js, REST APIs, GraphQL
+- Design: Figma, Adobe XD
+- Frontend: React.js, Next.js, Gatsby, Styled Components
+- Backend & APIs: Node.js, REST APIs, GraphQL
 
 I’m interested in collaborating on technically challenging products, especially those involving complex systems, scale, and real-world constraints.
 
-Design work: https://dribbble.com/Mrmeshach
-Contact: ebiwarimeshach@gmail.com
+- Design work: https://dribbble.com/Mrmeshach
+- Contact: ebiwarimeshach@gmail.com
